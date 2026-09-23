@@ -1,5 +1,5 @@
 ---
-name: seo
+name: seo-audit
 description: Run full SEO audits, single-page reviews, technical SEO checks, content quality reviews, Schema.org validation, image SEO checks, sitemap reviews, hreflang checks, local SEO reviews, AI search readiness reviews, source-code SEO reviews, and SEO strategy planning. Use when the user asks to audit a site, review rankings, check robots.txt, sitemap.xml, canonical tags, meta tags, Core Web Vitals, indexing, schema, internal linking, local pages, llms.txt, AI search visibility, or review a website codebase such as Next.js for SEO mistakes before launch.
 ---
 
